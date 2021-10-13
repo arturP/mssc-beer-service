@@ -29,6 +29,6 @@ public class BeerController {
     @PutMapping("/{beerId}")
     @ResponseStatus(HttpStatus.NO_CONTENT)
     public void updateBeer(@PathVariable UUID beerId, @RequestBody BeerDto beerDto) {
-        
+
     }
 }
