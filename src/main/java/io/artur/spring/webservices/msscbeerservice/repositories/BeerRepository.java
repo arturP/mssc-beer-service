@@ -1,6 +1,5 @@
 package io.artur.spring.webservices.msscbeerservice.repositories;
 
-
 import io.artur.spring.webservices.msscbeerservice.domain.Beer;
 import org.springframework.data.repository.PagingAndSortingRepository;
 
