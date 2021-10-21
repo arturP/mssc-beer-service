@@ -1,4 +1,4 @@
-package io.artur.spring.webservices.msscbeerservice.services;
+package io.artur.spring.webservices.msscbeerservice.services.brewing;
 
 import io.artur.spring.webservices.msscbeerservice.config.JmsConfig;
 import io.artur.spring.webservices.msscbeerservice.domain.Beer;
