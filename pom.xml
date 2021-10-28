@@ -109,8 +109,8 @@
             <!--<version>5.3.11</version>-->
         </dependency>
 		<dependency>
-			<groupId>javax.jms</groupId>
-			<artifactId>javax.jms-api</artifactId>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-activemq</artifactId>
 		</dependency>
     </dependencies>
 

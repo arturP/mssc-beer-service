@@ -1,7 +1,7 @@
 package io.artur.spring.webservices.beer.service.web.mapper;
 
 import io.artur.spring.webservices.beer.service.domain.Beer;
-import io.artur.spring.webservices.beer.service.web.model.BeerDto;
+import io.artur.spring.webservices.brewery.model.BeerDto;
 import org.mapstruct.DecoratedWith;
 import org.mapstruct.Mapper;
 

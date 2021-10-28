@@ -2,10 +2,10 @@ package io.artur.spring.webservices.beer.service.services.brewing;
 
 import io.artur.spring.webservices.beer.service.config.JmsConfig;
 import io.artur.spring.webservices.beer.service.domain.Beer;
-import io.artur.spring.webservices.beer.service.events.BrewBeerEvent;
-import io.artur.spring.webservices.beer.service.events.NewInventoryEvent;
+import io.artur.spring.webservices.brewery.model.events.BrewBeerEvent;
+import io.artur.spring.webservices.brewery.model.events.NewInventoryEvent;
 import io.artur.spring.webservices.beer.service.repositories.BeerRepository;
-import io.artur.spring.webservices.beer.service.web.model.BeerDto;
+import io.artur.spring.webservices.brewery.model.BeerDto;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.jms.annotation.JmsListener;

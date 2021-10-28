@@ -2,9 +2,9 @@ package io.artur.spring.webservices.beer.service.web.controller;
 
 
 import io.artur.spring.webservices.beer.service.services.BeerService;
-import io.artur.spring.webservices.beer.service.web.model.BeerDto;
-import io.artur.spring.webservices.beer.service.web.model.BeerPagedList;
-import io.artur.spring.webservices.beer.service.web.model.BeerStyleEnum;
+import io.artur.spring.webservices.brewery.model.BeerDto;
+import io.artur.spring.webservices.brewery.model.BeerPagedList;
+import io.artur.spring.webservices.brewery.model.BeerStyleEnum;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.http.HttpStatus;

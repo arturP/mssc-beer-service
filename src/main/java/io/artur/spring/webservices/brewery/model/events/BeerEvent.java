@@ -1,6 +1,6 @@
-package io.artur.spring.webservices.beer.service.events;
+package io.artur.spring.webservices.brewery.model.events;
 
-import io.artur.spring.webservices.beer.service.web.model.BeerDto;
+import io.artur.spring.webservices.brewery.model.BeerDto;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

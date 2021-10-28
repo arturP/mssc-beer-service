@@ -1,4 +1,4 @@
-package io.artur.spring.webservices.beer.service.web.model;
+package io.artur.spring.webservices.brewery.model;
 
 
 import com.fasterxml.jackson.annotation.JsonCreator;
